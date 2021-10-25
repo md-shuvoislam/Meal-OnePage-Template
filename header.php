@@ -5,7 +5,7 @@
 </head>
 <!--<body class="bg-light">-->
 
-<body data-spy="scroll" data-target="#ftco-navbar-spy" data-offset="0">
+<body data-spy="scroll" data -target="#ftco-navbar-spy" data-offset="0">
 
 <div class="site-wrap">
 
@@ -31,7 +31,6 @@
             </div>
             <div class="col-5 col-md-3 text-right menu-burger-wrap">
                 <a href="#" class="site-nav-toggle js-site-nav-toggle"><i></i></a>
-
             </div>
         </div>
 </header> <!-- site-header --> 
